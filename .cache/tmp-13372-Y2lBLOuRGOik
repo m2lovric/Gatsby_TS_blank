@@ -1,0 +1,5 @@
+
+    const cmd = require("C:/Programming/Prototyp_ts_/node_modules/gatsby/dist/commands/develop-process.js");
+    const args = {"_":["develop"],"verbose":false,"no-color":false,"no-colors":false,"noColors":false,"noColor":false,"json":false,"H":"localhost","host":"localhost","p":"8000","port":52490,"c":"","cert-file":"","certFile":"","k":"","key-file":"","keyFile":"","ca-file":"","caFile":"","graphql-tracing":false,"graphqlTracing":false,"$0":"gatsby","directory":"C:\\Programming\\Prototyp_ts_","browserslist":[">0.25%","not dead"],"sitePackageJson":{"name":"prototyp_ts_","version":"1.0.0","description":"","main":"index.js","scripts":{"test":"echo \"Error: no test specified\" && exit 1","type-check":"tsc --noEmit"},"author":"","license":"ISC","dependencies":{"@typescript-eslint/eslint-plugin":"^4.9.1","@typescript-eslint/parser":"^4.9.1","eslint":"^7.15.0","gatsby":"^2.28.1","gatsby-plugin-typescript":"^2.8.0","react":"^16.8.0","react-dom":"^16.8.0"},"devDependencies":{"typescript":"^4.1.2"}},"report":{"errorMap":{}},"useYarn":false,"proxyPort":8000,"ssl":null,"debugInfo":null};
+    cmd(args);
+  
